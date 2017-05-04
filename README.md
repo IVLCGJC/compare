@@ -64,7 +64,7 @@ but excluding information which:
 1.4	Any phrase introduced by the terms “including”, “include”, “in particular” or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
 1.5	References to books, records or other information mean books, records or other information in any form including paper, electronically stored data, magnetic media, film and microfilm.
 2.	Confidentiality
-2.1	The obligations of confidentiality contained in this Agreement shall apply and have full force and effect in respect of any Confidential Information disclosed to a Party and/or its Related Persons from the Effective  Date of this Agreement.
+2.1	The obligations of confidentiality contained in this Agreement shall apply and have full force and effect in respect of any Confidential Information disclosed to a Party and/or its Related Persons from the Effective Date of this Agreement.
 2.2	In relation to the disclosure of any Confidential Information, and in consideration of the Disclosing Party agreeing to disclose such Confidential Information to it, the Recipient Party undertakes to the Disclosing Party and each of its Related Persons that it shall:
 2.3.1	keep confidential and secret the Confidential Information and any part thereof;
 2.3.2	ensure that Confidential Information is protected with no less than the same degree of care and security measures which the Recipient Party would apply to its own confidential information, but in no event applying less than a reasonable standard of care;
@@ -90,7 +90,7 @@ provided that, before it discloses any Confidential Information, the Recipient P
 4.1.2	permanently remove all Confidential Information from any computer, disk or other device or media containing Confidential Information, to the extent technically possible at the date on which such written notice is served by the Disclosing Party; and
 4.1.3	if so requested by the Disclosing Party, provide a certificate signed by a director of the Recipient Party confirming compliance with the obligations contained within this clause 4.1,
 provided that the Recipient Party (and any of its Related Persons to whom Confidential Information has been disclosed in accordance with the terms of this Agreement) may retain such Confidential Information as is required to be retained by it under applicable law or regulation, subject to the duties of confidentiality in respect of such Confidential Information contained in this Agreement.
-5.	No analysis
+5.	No Analysis
 5.1	In the event that the Disclosing Party shall supply, or has supplied any sample to the Recipient Party, whether free of charge or for a contribution to the cost of such sample, under or this Agreement the Recipient Party undertakes:
 (a)	to use each sample only for the purpose contemplated herein and for no other purposes whatsoever;
 (b)	not to analyse chemically, reverse engineer or otherwise characterise any such sample, or to cause or permit any test, analysis or characterisation by any third party; and
@@ -130,9 +130,12 @@ Executed by the duly authorised representatives of the following Parties:
 
 
 
-……., on………
+Victor Dean, Sr. V.P. & GM, CMC Business, on __ May, 2017
+
+
 __________________
 CP KELCO OY
+
 
 
 
